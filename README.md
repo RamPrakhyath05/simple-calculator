@@ -24,3 +24,5 @@ To run the calculator:
 Check out more of the projects in my [Github][github]!
 
 [github]:[https://www.github.com/RamPrakhyath05]
+
+_Backspace functionality coming soon..._
