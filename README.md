@@ -21,8 +21,6 @@ To run the calculator:
 - Run the build version:
   - > npm run preview
 
-Check out more of the projects in my [Github][github]!
-
-[github]:[https://www.github.com/RamPrakhyath05]
+Check out more of the projects in my Github profile page.
 
 _Backspace functionality coming soon..._
