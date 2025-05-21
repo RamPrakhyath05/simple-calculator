@@ -21,17 +21,9 @@ const Calculator = () => {
   return (
     <div className="bg-gradient-to-br from-gray-900 to-gray-800 min-h-screen flex items-center justify-center">
       <div className="max-w-md w-full mx-auto p-10 bg-black rounded-3xl shadow-lg">
-        <div className="mb-8 text-center">
-          <h1 className="text-white text-4xl font-sans mb-2">
-            Simple Calculator
-          </h1>
-          <h3 className="text-white text-lg font-sans">
-            This is a simple calculator with basic functionalities such as + - *
-            /
-          </h3>
+        <div className="mb-10">
+          <Display value={currentValue}/>
         </div>
-
-        <Display value={currentValue} className="mb-8" />
 
         <div className="grid grid-cols-4 gap-4">
           {row1.map((number) => (
